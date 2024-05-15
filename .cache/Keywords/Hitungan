@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F4994F745AA9A088A22A524E03DE7063",
+  "keywordClasses": [
+    {
+      "name": "Hitungan",
+      "keywordMethods": [
+        {
+          "name": "hitung",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

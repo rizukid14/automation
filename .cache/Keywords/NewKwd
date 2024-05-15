@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "0CA5A063F2C16F33994EE34EF81D6D89",
+  "keywordClasses": [
+    {
+      "name": "NewKwrd",
+      "keywordMethods": [
+        {
+          "name": "rizqydaffa",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "hitung",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Daffa",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

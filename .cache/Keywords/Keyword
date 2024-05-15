@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "235DB5FC272258C47A1EB91FE0A1F5B0",
+  "keywordClasses": [
+    {
+      "name": "NewKwrd",
+      "keywordMethods": [
+        {
+          "name": "rizqydaffa",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
