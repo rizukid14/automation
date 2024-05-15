@@ -4,8 +4,12 @@
    <name>QA Auto Ex</name>
    <tag></tag>
    <UUID>1afad166-2998-4218-80fb-2cbf9e340201</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\RizqyDaffa\OneDrive - Universitas Diponegoro\#Kerja World\MII\Automation\QA Auto Ex\QA Auto Ex.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
