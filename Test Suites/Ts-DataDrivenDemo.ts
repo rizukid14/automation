@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Ts-DataDrivenDemo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>97137ad0-754d-462c-b49f-b8a898506842</testSuiteGuid>
+   <testCaseLink>
+      <guid>2dda8744-7f77-4c32-8ebd-1312866a2650</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tc-DDT-1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4bf3a5c4-62eb-4e62-bf26-be92f8f6fbf9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/logincred</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4bf3a5c4-62eb-4e62-bf26-be92f8f6fbf9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>uname</value>
+         <variableId>df672a5c-9c3a-44ab-80d9-e7c885dbedc9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4bf3a5c4-62eb-4e62-bf26-be92f8f6fbf9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>e586fcc6-ae16-4228-8396-e28130c74457</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
