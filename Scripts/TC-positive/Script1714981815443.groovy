@@ -16,13 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.OutputType
-import org.openqa.selenium.TakesScreenshot
-import java.nio.file.Files
-import java.nio.file.Paths
 
 //ambil data 
-String pathData = 'excel'
+String pathData = 'Data Files/excel'
 
 //declare data
 String penghasilan = findTestData(pathData).getValue('Penghasilan', 1) //row 1
